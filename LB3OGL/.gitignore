@@ -1,0 +1,5 @@
+/.idea/
+/.projectKnowledge/
+/target/
+*.iml
+*.log
